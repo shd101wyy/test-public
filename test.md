@@ -6,4 +6,4 @@ note:
 ---
 This is test.md
 
-This is remote modification
+This is remote modification 2
