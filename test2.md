@@ -1,7 +1,7 @@
 ---
 note:
   id: ''
-  tags: ["a", "b"]
+  tags: ["a", "b", "c"]
   modifiedAt: 2020-03-18T11:49:51.715Z
   createdAt: 2020-03-18T11:49:41.001Z
 ---
