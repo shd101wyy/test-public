@@ -8,4 +8,4 @@ note:
 
 This is test1.md
 Changes from crossnote
-Check automatic fetching 1
+Check automatic fetching 2
