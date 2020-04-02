@@ -10,7 +10,7 @@ note:
 
 This is test3.md
 Changes from crossnote
-Edit from remote
+Edit from remote 1
 Edit from crossnote
 Edit from local 1
 Edit from local 2
