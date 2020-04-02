@@ -9,4 +9,4 @@ note:
 
 This is test2.md
 Changes from crossnote
-Remote modification 1
+Remote modification 2 
