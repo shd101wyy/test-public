@@ -1,15 +1,16 @@
 ---
 note:
     createdAt: 2020-03-18T09:43:49.058Z
-    modifiedAt: 2020-04-14T02:31:53.926Z
+    modifiedAt: 2020-04-14T02:48:06.565Z
     tags: []
 ---
-# Test1
+# Test1asdasdjsaljdksaljdlksaj
 
 This is test1.md
 Changes from crossnote
 Remote modification 25 
 
+![](https://wallup.net/wp-content/uploads/2015/12/16830-Anime.jpg)
 
 ## Test images
 
@@ -27,3 +28,8 @@ Remote modification 25
 **gif**
 
 ![](/images/anime4.gif)
+
+**svg**
+
+![](/images/logo.svg)
+
