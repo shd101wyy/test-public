@@ -1,9 +1,8 @@
 ---
-note:
-    createdAt: 2020-03-26T08:00:01.032Z
-    modifiedAt: 2020-03-26T08:16:43.272Z
-    tags: []
-    id: ""
+createdAt: 2020-03-26T08:00:01.032Z
+modifiedAt: 2020-03-26T08:16:43.272Z
+tags: []
+id: ""
 ---
 
 # Test3
